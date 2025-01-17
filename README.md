@@ -32,12 +32,8 @@
     </tr>
     <tr>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=daalagelerua&count_private=true&show_icons=true&theme=tokyonight"/>
+            <img src="https://github-readme-stats.vercel.app/api?username=daalagelerua&count_private=true&show_icons=true&theme=merko"/>
         </td>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daalagelerua&langs_count=10&layout=compact&hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby"/>
-        </td>
-    </tr>
-</table>
+        
 
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=daalagelerua&show_icons=true&theme=merko)
+
