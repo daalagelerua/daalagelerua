@@ -4,6 +4,7 @@
 
 ## Future Developer
 </div>
+
 ![](https://komarev.com/ghpvc/?username=daalagelerua&abbreviated=true&style=flat&color=yellow)
 
 - 🔭 I’m currently a student at Holberton School France
