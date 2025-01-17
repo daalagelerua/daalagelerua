@@ -10,10 +10,10 @@
 
 
 
-<p align="center">- 🔭 I’m currently a student at Holberton School France </p>
-<p align="center">- 🌱 I’m currently learning Python </p>
-<p align="center">- 📫 How to reach me: aurele284@gmail.com </p>
-<p align="center">- ⚡ Fun fact: i'm also passionnate about climbing </p>
+<p align="center"> 🔭 I’m currently a student at Holberton School France </p>
+<p align="center"> 🌱 I’m currently learning Python </p>
+<p align="center"> 📫 How to reach me: aurele284@gmail.com </p>
+<p align="center"> ⚡ Fun fact: i'm also passionnate about climbing </p>
 
 
 <div align="center">
