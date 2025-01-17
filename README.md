@@ -18,4 +18,4 @@
 
 ### Statistiques GitHub
 
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=daalagelerua&show_icons=true&theme=gruvbox)
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=daalagelerua&show_icons=true&theme=dark)
