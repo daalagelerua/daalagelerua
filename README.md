@@ -20,7 +20,7 @@
 <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> </a>
 
 ### GitHub Stats
-
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=daalagelerua&row=3&column=4&no-bg=true"/> </p>
 <table>
     <tr>
         <td>
