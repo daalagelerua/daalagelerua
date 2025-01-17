@@ -12,6 +12,7 @@
 - 📫 How to reach me: aurele284@gmail.com
 - ⚡ Fun fact: i'm also passionnate about climbing 
 <div align="center">
+    
 ### Toolset
 
 <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/github/github-original.svg" width="40" height="40"/></a>
@@ -22,6 +23,7 @@
 <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
 <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> </a>
 </div>
+
 ### GitHub Stats
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=daalagelerua&row=3&column=4&no-bg=true"/> </p>
 <table>
