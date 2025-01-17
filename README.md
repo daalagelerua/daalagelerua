@@ -21,7 +21,7 @@
 
 ### GitHub Stats
 
-
+<table>
     <tr>
         <td>
             <img src="https://github-profile-trophy.vercel.app/?username=daalagelerua&row=3&column=4&no-bg=true"/>
@@ -38,6 +38,7 @@
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=colinbut&langs_count=10&layout=compact&hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby"/>
         </td>
     </tr>
+</table>
 
 
 
