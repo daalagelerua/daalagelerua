@@ -9,7 +9,7 @@
 
 ### Mes compétences
 
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=plastic&logo=gnu-bash&logoColor=white)
+![Bash]([https://cdn.rawgit.com/odb/official-bash-logo/master/assets/Logos/Identity/PNG/BASH_logo-transparent-bg-color.png])
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=social&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
