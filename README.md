@@ -1,3 +1,5 @@
+<div align="center">
+
 # Hi there, my name is Aurèle Périllat 👋
 
 ## Future Developer
@@ -31,6 +33,6 @@
         </td>
     </tr>
 </table>
-
+</div>
 
 
