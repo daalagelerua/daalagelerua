@@ -12,12 +12,12 @@
 ### Toolset
 
 <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/github/github-original.svg" width="40" height="40"/></a>
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/bash/bash-original.svg" width="40" height="40"/></a>
+<a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/c/c-original.svg" width="40" height="40"/> </a>
+<a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/python/python-original.svg" width="40" height="40"/></a>
+<a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/git/git-original.svg" width="40" height="40"/></a>
+<a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
+<a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/css3/css3-original.svg" width="40" height="40"/> </a>
 
 ### Statistiques GitHub
 
