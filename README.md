@@ -8,10 +8,13 @@
 
 ![](https://komarev.com/ghpvc/?username=daalagelerua&abbreviated=true&style=flat&color=yellow)
 
+<div align="center">
+
 - 🔭 I’m currently a student at Holberton School France
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: aurele284@gmail.com
 - ⚡ Fun fact: i'm also passionnate about climbing 
+</div>
 
 <div align="center">
     
