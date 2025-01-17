@@ -26,10 +26,6 @@
         <td>
             <img src="https://github-profile-trophy.vercel.app/?username=daalagelerua&row=3&column=4&no-bg=true"/>
         </td>
-        <td>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=daalagelerua"/>
-        </td> 
-    </tr>
     <tr>
         <td>
             <img src="https://github-readme-stats.vercel.app/api?username=daalagelerua&count_private=true&show_icons=true&theme=merko"/>
