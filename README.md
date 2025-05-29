@@ -32,7 +32,7 @@
 ### GitHub Stats
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=daalagelerua&row=3&column=4&no-bg=true"/> </p>
         
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daalagelerua&langs_count=10&layout=compact&hide=php,roff,powershell,batchfile,gherkin,freemarker,xslt,tsql,ruby"/> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daalagelerua&locale=en&langs_count=10&layout=compact&hide=php,roff,powershell,batchfile,gherkin,freemarker,xslt,tsql,ruby"/> </p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=daalagelerua&count_private=true&show_icons=true&theme=merko"/> </p>
 
