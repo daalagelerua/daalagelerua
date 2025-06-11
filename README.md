@@ -11,7 +11,7 @@
 
 
 <p align="center"> 🔭 I’m a student at Holberton School France </p>
-<p align="center"> 🌱 Currently building a visa platform </p>
+<p align="center"> 🌱 Currently building a visa platform <a href="">https://github.com/daalagelerua/holbertonschool-portfolio_project/tree/main/vizza-platform</a></p>
 <p align="center"> 📫 How to reach me: aurele284@gmail.com </p>
 <p align="center"> ⚡ Fun fact: i'm also passionnate about climbing and diving </p>
 
