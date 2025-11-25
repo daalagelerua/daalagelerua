@@ -10,10 +10,11 @@
 
 
 
-<p align="center"> 🔭 I’m a student at Holberton School France </p>
-<p align="center"> 🌱 Currently building a visa platform:</p>
+<p align="center"> 🔭 I was a student at Holberton School France </p>
+<p align="center"> 🌱 Recently build a visa platform and a Todo application:</p>
 <p align="center"><a href="">https://github.com/daalagelerua/holbertonschool-portfolio_project/tree/main/vizza-platform</a></p>
-<p align="center"> 😎 Here is the link to the landing page of the application:</p>
+<p align="center"><a href="">https://github.com/daalagelerua/Todos_app/</a></p>
+<p align="center"> 😎 Here is the link to the landing page of the visa application:</p>
 <p align="center"><a href="">https://daalagelerua.github.io/vizza_landing/</a></p>
 <p align="center"> 📫 How to reach me: aurele284@gmail.com </p>
 <p align="center"> ⚡ Fun fact: i'm also passionnate about climbing and diving </p>
