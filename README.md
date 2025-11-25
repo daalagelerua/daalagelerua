@@ -36,7 +36,7 @@
 ### GitHub Stats
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=daalagelerua&row=3&column=4&no-bg=true"/> </p>
         
-<a href="https://github.com/daalagelerua">
+<a href="https://github.com/daalagelerua/daalagelerua">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daalagelerua&hide=html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 
